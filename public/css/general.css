@@ -1,0 +1,28 @@
+.row {
+    padding-bottom: 3%;
+}
+
+.bottom-p {
+    padding-bottom: 3%;
+}
+
+.menu-margin {
+    margin-left: 1%;
+}
+
+#field {
+    margin-bottom:20px;
+}
+
+button.inline {
+    width:15%;
+}
+
+input.inline {
+    display:inline-block;
+    width:80%;
+}
+
+.padding {
+    padding:1%;
+}
